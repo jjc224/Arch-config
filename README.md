@@ -1,2 +1,2 @@
-# Arch-Linux-config-files-
+# Arch-config
 Files of my Arch Linux configuration.
